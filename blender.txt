@@ -1,0 +1,8 @@
+0 switch camera
+1 front view
+3 side view (from right)
+7 top view
+(+ ctrl - reverse)
+z circle menue
+q quick menue
+n side panel
